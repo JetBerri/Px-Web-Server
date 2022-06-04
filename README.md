@@ -109,3 +109,20 @@ Web Server:
 Server:
 
 ![image](https://user-images.githubusercontent.com/84512017/172027983-f16f9051-30c0-46fe-bd23-c0c474349d64.png)
+
+# HTML
+
+```html
+<html>
+<head><title>Example site</title></head>
+<body bgcolor="#000000" text="#ffffffff">
+<center>
+<h1></h1>
+<br>
+<br>
+<br>
+<img src="image.jpg"><br>
+</center>
+</body>
+</html>
+```
