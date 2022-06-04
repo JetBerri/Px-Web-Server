@@ -44,6 +44,10 @@ Both can't be running at the same time in the same port.
 [!!] Fatal Error binding to socket: Address already in use
 ```
 
+Kill the process by running:
+```
+fuser -k 8080/tcp
+```
 
 # Web Server Output
 
@@ -93,3 +97,15 @@ RECV: 439 bytes
 0a 53 65 63 2d 46 65 74 63 68 2d 55 73 65 72 3a | .Sec-Fetch-User:
 20 3f 31 0d 0a 0d 0a                            |  ?1....
 ```
+
+# Images
+
+Web Server:
+
+![image](https://user-images.githubusercontent.com/84512017/172027947-0bf85f4a-f60f-4411-9cba-6efbe32a2b54.png)
+
+![image](https://user-images.githubusercontent.com/84512017/172027963-dc56c2a2-b7dc-450b-ad2b-6c3923e10c94.png)
+
+Server:
+
+![image](https://user-images.githubusercontent.com/84512017/172027983-f16f9051-30c0-46fe-bd23-c0c474349d64.png)
