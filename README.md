@@ -104,11 +104,6 @@ Web Server:
 
 ![image](https://user-images.githubusercontent.com/84512017/172027947-0bf85f4a-f60f-4411-9cba-6efbe32a2b54.png)
 
-![image](https://user-images.githubusercontent.com/84512017/172027963-dc56c2a2-b7dc-450b-ad2b-6c3923e10c94.png)
-
-Server:
-
-![image](https://user-images.githubusercontent.com/84512017/172027983-f16f9051-30c0-46fe-bd23-c0c474349d64.png)
 
 # HTML
 
